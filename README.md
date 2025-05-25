@@ -1,64 +1,54 @@
-# 📊 E-Commerce Sales Dashboard – Power BI
+# 📊 E-Commerce Sales Dashboard - Power BI Project
 
-This interactive dashboard provides insights into an e-commerce company's sales performance from 2022 to 2023. Built using **Power BI**, the report allows users to explore sales trends, top-performing products, and customer distribution by country and category.
+This interactive Power BI dashboard provides a comprehensive overview of e-commerce sales performance across countries, product categories, and time. It helps uncover sales trends, top-selling products, and profitability insights.
 
----
-
-## 📌 Key Features
-
-- **KPIs**:
-  - Total Sales
-  - Total Profit
-  - Profit Margin
-  - Total Orders
-  - Average Order Value
-
-- **Visuals**:
-  - Sales Trend Over Time (Line Chart)
-  - Total Sales by Product Category (Donut Chart)
-  - Top 10 Products by Sale (Bar Chart)
-  - Sales by Country (Bar Chart)
-  - Interactive filters: Date Range, Product Category
+![Dashboard Preview](https://github.com/samiasohail4/E-Commerce-Sales-Dashboard-Power-BI/blob/main/E-Commerce%20Sales%20Data%20Dashboard.png?raw=true)
 
 ---
 
-## 📂 Dataset
+## 📁 Project Highlights
 
-The dataset includes:
-- `Order Date`, `Product Name`, `Quantity Ordered`, `Price Each`
-- Derived columns such as `Total Sales`, `Profit`, and `Order Value`
-- Filtered and cleaned for performance and accuracy
-
----
-
-## 🎯 Insights Uncovered
-
-- Sales declined slightly from 2022 to 2023
-- Highest sales came from the **Beauty** and **Books** categories
-- **Lipstick**, **Phone**, and **Blender** are top-selling products
-- Customers from **Canada** and **India** generated the most revenue
+- **Total Sales**: 313.15K  
+- **Total Profit**: 63.59K  
+- **Profit Margin**: 20%  
+- **Total Orders**: 500  
+- **Avg. Order Value**: 626.30  
 
 ---
 
-## 🛠️ Tools Used
+## 📈 Key Visuals
 
-- **Power BI** for data modeling and visualization
-- **Power Query** for data cleaning and transformation
-- **DAX** for KPI calculations
-
----
-
-## 📁 File Info
-
-- `Ecommerce-Sales-Dashboard.pbix`: Power BI report file
-- `screenshot.png`: Preview of the dashboard
+- Sales trend over time  
+- Total sales by product category  
+- Top 10 products by sales  
+- Sales by country  
+- Slicers for order date and product category  
 
 ---
 
-## 👤 Author
+## 📥 Download the Power BI File
 
-**[Samia Sohail]**  
-Data Analyst | Aspiring Cloud Practitioner  
-[LinkedIn Profile](https://www.linkedin.com/in/samiasohail) |
+You can download the `.pbix` file to explore the dashboard and data model in Power BI Desktop:
+
+👉 [**Click here to download the Power BI dashboard**](https://github.com/samiasohail4/E-Commerce-Sales-Dashboard-Power-BI/raw/main/Ecommerce%20Sales%20Dashboard.pbix)
+
 ---
+
+## 🧰 Tools Used
+
+- Power BI Desktop  
+- DAX (for KPIs and calculated measures)
+- Data cleaning and modeling
+
+---
+
+## 📌 Project Purpose
+
+This is part of my data analytics portfolio showcasing real-world business reporting using Power BI. It demonstrates data storytelling, KPI reporting, and interactive visual design.
+
+---
+
+## 📧 Contact
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/samiasohail) or reach out via GitHub.
 
